@@ -1,4 +1,3 @@
-The web-page is live at following link:
 # The web-page is live at following link:
 <br>
 https://purnimapatel.github.io/fish-world/
